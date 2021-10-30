@@ -12,6 +12,17 @@ The functionality of the app is also available offline through the use of indexD
 
 ![IndexDB Screenshot](/screenshots/offline.png "Offline to online functionality")
 
+As you can see the files failed to post, however when the connection was restored the post function was triggered and the data was sent to the server.
 
-https://afternoon-island-23774.herokuapp.com/
-[Social Network API demonstration video](https://drive.google.com/file/d/1UDA8c_uWnxB3AgwOyTqgrpv69PijCsm6/view?usp=sharing "Social Network API demonstration video-disco")
+We used a manifest to produce the PWA functionality in order to allow for application installation onto the end users device.
+
+![manifest Screenshot](/screenshots/manifest.png "Manifest json file")
+
+Here we see the icon allowing for installing the app.
+
+![install icon Screenshot](/screenshots/install.png "PWA install")
+
+
+
+Heroke Deployed site:
+[Heroku deployement](https://afternoon-island-23774.herokuapp.com/ "Here is the deployed site")
